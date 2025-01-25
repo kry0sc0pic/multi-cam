@@ -13,3 +13,7 @@ I built this for my Neural Networks Capstone Project.
 
 ## Open Browser
 `http://localhost:8501`
+
+
+# Project Report/Presentation
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/slides/IAk2sudnwzNQ9IJV1BHjCe/XAI-NN-Project?node-id=3-1481&embed-host=share" allowfullscreen></iframe>
