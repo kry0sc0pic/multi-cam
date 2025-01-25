@@ -16,4 +16,4 @@ I built this for my Neural Networks Capstone Project.
 
 
 # Project Report/Presentation
-https://www.figma.com/deck/IAk2sudnwzNQ9IJV1BHjCe/XAI-NN-Project?node-id=3-1481&viewport=-101%2C-107%2C0.51&t=cu6hTbaUJIOxISSo-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
+[https://fig.page/multi-cam](https://fig.page/multi-cam)
